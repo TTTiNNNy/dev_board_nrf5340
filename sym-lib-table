@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name MCU_Nordic_Patch)(type Legacy)(uri ${KIPRJMOD}/MCU_Nordic_Patch.lib)(options "")(descr ""))
+)
