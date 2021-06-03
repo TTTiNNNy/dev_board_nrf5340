@@ -1362,7 +1362,7 @@ Text Label 8750 3150 2    50   ~ 0
 P1.6
 Text Label 8750 3250 2    50   ~ 0
 P1.7
-Text Label 8750 3350 2    50   ~ 0
+Text Label 8750 3550 2    50   ~ 0
 P1.8
 Entry Wire Line
 	10600 3650 10700 3750

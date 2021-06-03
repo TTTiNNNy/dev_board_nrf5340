@@ -364,12 +364,8 @@ Entry Wire Line
 	8950 5350 9050 5450
 Text Label 8950 5350 0    50   ~ 0
 D-
-Entry Wire Line
-	1450 6650 1550 6550
 Text Label 1450 6650 2    50   ~ 0
 D+
-Entry Wire Line
-	1450 6750 1550 6650
 Text Label 1450 6750 2    50   ~ 0
 D-
 $Comp
@@ -1688,15 +1684,11 @@ Wire Wire Line
 Wire Wire Line
 	2750 1700 2750 950 
 Wire Wire Line
-	1700 6650 1550 6650
-Wire Wire Line
 	1700 6050 1600 6050
 Wire Wire Line
 	1700 2750 1500 2750
 Wire Wire Line
 	1500 4800 1700 4800
-Wire Wire Line
-	1550 6550 1700 6550
 Wire Wire Line
 	1700 4400 1500 4400
 Wire Wire Line
